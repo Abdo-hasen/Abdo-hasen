@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Abdelrhman Hasan</h1>
-<h3 align="center">🚀 Passionate Backend Engineer from Egypt</h3>
+<h3 align="center">🚀 Passionate Backend Engineer </h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=abdo-hasen&label=Profile+Views&color=blue&style=flat" alt="Profile views" /> 
