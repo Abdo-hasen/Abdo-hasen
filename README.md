@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Abdelrhman Hasan</h1>
-<h3 align="center">🚀 Passionate Backend Engineer </h3>
+<h3 align="center"> Passionate Backend Engineer | Focused on crafting efficient backend systems and scalable web solutions using PHP & Laravel to bring ideas to life. </h3>
 
 - 🔭 Currently working on **[E-Learning Platform](https://github.com/io-somaya/Learnify)**
 - ✍️ Regular tech writer on [LinkedIn](https://www.linkedin.com/in/abdelrhman-hasan22/)
@@ -43,6 +43,40 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![PHPUnit](https://img.shields.io/badge/Testing-25A162?logo=php&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+
+<h3 align="left">📌 Featured Projects:</h3>
+
+<ul>
+  <li>
+    <p>
+      <strong><a href="https://github.com/io-somaya/Learnify">Learnify E-Learning Platform</a> (In Progress)</strong><br/>
+      Developing an E-learning platform with role-based dashboards (Teacher, Assistant, Students), live/recorded lectures, exams, subscriptions, and real-time notifications. Collaboration project.
+      <br/><em><strong>Tech Stack:</strong></em> <code>Angular</code>, <code>Laravel</code>, <code>MySQL</code>, <code>TypeScript</code>, <code>HTML</code>, <code>CSS</code>, <code>JavaScript</code>, <code>Bootstrap</code>
+    </p>
+  </li>
+  <li>
+    <p>
+      <strong><a href="https://github.com/Abdo-hasen/PHP_Restaurant">Restaurant Management System</a></strong><br/>
+      A web application facilitating restaurant operations with features like user roles, menu/order management, reservations, payments, and real-time order tracking. Built core modules including authentication, order workflows, dynamic offers, and menu search.
+      <br/><em><strong>Tech Stack:</strong></em> <code>PHP</code>, <code>MySQL</code>, <code>HTML</code>, <code>CSS</code>, <code>JavaScript</code>
+    </p>
+  </li>
+  <li>
+    <p>
+      <strong><a href="https://github.com/Abdo-hasen/worker-system">API Worker Management System</a></strong><br/>
+      A Laravel-based API for a freelance-like platform connecting workers and clients, complete with administrative management capabilities.
+      <br/><em><strong>Tech Stack:</strong></em> <code>Laravel</code>, <code>PHP</code>, <code>MySQL</code>, <code>REST API</code>
+    </p>
+  </li>
+   <li>
+    <p>
+      <strong><a href="https://github.com/Abdo-hasen/Invoice_system">Invoice System for Banks</a></strong><br/>
+      A specialized platform designed for banks to efficiently manage and collect customer bills.
+      <br/><em><strong>Tech Stack:</strong></em> <code>PHP</code>, <code>MySQL</code>, <code>HTML</code>, <code>CSS</code>, <code>JavaScript</code>, <code>Bootstrap</code>
+    </p>
+  </li>
+</ul>
+
 
 <h3 align="left">📈 GitHub Stats:</h3>
 
