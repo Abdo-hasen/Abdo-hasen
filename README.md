@@ -47,5 +47,17 @@
 <h3 align="left">📈 GitHub Stats:</h3>
 
 <p align="center">
+  <!-- General Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=abdo-hasen&show_icons=true&theme=radical&hide_border=true&count_private=true&rank_icon=github" alt="Abdelrhman's GitHub Stats"/>
+  <br/>
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdo-hasen&layout=compact&theme=radical&hide_border=true&count_private=true" alt="Abdelrhman's Top Languages"/>
+  <br/> 
+  <!-- GitHub Streak Stats -->
+  <a href="https://git.io/streak-stats">
+<!--      <img src="https://github-readme-streak-stats.vercel.app/?user=abdo-hasen&theme=radical&hide_border=true" alt="GitHub Streak"/> -->
+     <!-- OR Try this alternative streak if the one above fails -->
+<!--      <img src="https://github-readme-stats.vercel.app/api/streak-stats?user=abdo-hasen&theme=radical&hide_border=true" alt="GitHub Streak"/> -->
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdo-hasen&theme=dark" />
+  </a>
 </p>
