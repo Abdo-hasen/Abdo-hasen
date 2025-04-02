@@ -1,12 +1,6 @@
 <h1 align="center">👋 Hi, I'm Abdelrhman Hasan</h1>
 <h3 align="center">🚀 Passionate Backend Engineer </h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=abdo-hasen&label=Profile+Views&color=blue&style=flat" alt="Profile views" /> 
-  <a href="https://github.com/abdo-hasen?tab=followers">
-  </a>
-</p>
-
 - 🔭 Currently working on **[E-Learning Platform](https://github.com/io-somaya/Learnify)**
 - ✍️ Regular tech writer on [LinkedIn](https://www.linkedin.com/in/abdelrhman-hasan22/)
 - 📄 Explore my [resume](https://drive.google.com/drive/folders/1rYABR9N0wO0WpYBKU8nuIhtCgW3b66VN?usp=drive_link)
@@ -48,6 +42,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![PHPUnit](https://img.shields.io/badge/Testing-25A162?logo=php&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
 <h3 align="left">📈 GitHub Stats:</h3>
 
