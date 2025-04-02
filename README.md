@@ -4,7 +4,6 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=abdo-hasen&label=Profile+Views&color=blue&style=flat" alt="Profile views" /> 
   <a href="https://github.com/abdo-hasen?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/abdo-hasen?label=Followers&style=social">
   </a>
 </p>
 
