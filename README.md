@@ -1,10 +1,10 @@
 <h1 align="center">👋 Hi, I'm Abdelrhman Hasan</h1>
-<h3 align="center"> Passionate Backend Engineer | Focused on crafting efficient backend systems and scalable web solutions using PHP & Laravel to bring ideas to life. </h3>
+<h3 align="center"> Backend Engineer | PHP & Laravel Specialist | Full Stack Developer | ITI Graduate </h3>
 
-- 🔭 Currently working on **[E-Learning Platform](https://github.com/io-somaya/Learnify)**
-- ✍️ Regular tech writer on [LinkedIn](https://www.linkedin.com/in/abdelrhman-hasan22/)
-- 📄 Explore my [resume](https://drive.google.com/drive/folders/1rYABR9N0wO0WpYBKU8nuIhtCgW3b66VN?usp=drive_link)
-- 📫 Reach me at **abdohasen200@gmail.com**
+-  Currently working on **[E-Learning Platform](https://github.com/io-somaya/Learnify)**
+- Regular tech writer on [LinkedIn](https://www.linkedin.com/in/abdelrhman-hasan22/)
+-  Explore my [resume](https://drive.google.com/drive/folders/1rYABR9N0wO0WpYBKU8nuIhtCgW3b66VN?usp=drive_link)
+-  Reach me at **abdohasen200@gmail.com**
 
 <h3 align="left">🌐 Connect With Me:</h3>
 <p align="left">
