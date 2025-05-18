@@ -46,7 +46,14 @@
 <ul>
   <li>
     <p>
-      <strong><a href="https://github.com/io-somaya/Learnify">Learnify E-Learning Platform</a> (In Progress)</strong><br/>
+      <strong><a href="https://duo-mart.clickventures-portal.me/">Duomart (Live E-commerce Platform)</a></strong><br/>
+      Developed a live e-commerce platform for furniture sales (Duomart) with English/Arabic support. Key responsibilities included building a flexible deposit system (10%-100%) integrated with Paymob for partial payments, alongside core e-commerce features (product/category management, user accounts, cart, wishlist).
+      <br/><em><strong>Tech Stack:</strong></em> <code>PHP</code>, <code>Laravel</code>, <code>MySQL</code>, <code>Paymob API</code>, <code>HTML</code>, <code>CSS</code>, <code>JavaScript</code>
+    </p>
+  </li>
+  <li>
+    <p>
+      <strong><a href="https://github.com/io-somaya/Learnify">Learnify E-Learning Platform</a> </strong><br/>
       Developing an E-learning platform with role-based dashboards (Teacher, Assistant, Students), live/recorded lectures, exams, subscriptions, and real-time notifications. Collaboration project.
       <br/><em><strong>Tech Stack:</strong></em> <code>Angular</code>, <code>Laravel</code>, <code>MySQL</code>, <code>TypeScript</code>, <code>HTML</code>, <code>CSS</code>, <code>JavaScript</code>, <code>Bootstrap</code>
     </p>
