@@ -125,7 +125,8 @@
   <li>
     <p>
       <strong><a href="https://github.com/Abdo-hasen/worker-system" target="_blank" rel="noopener noreferrer">API Worker Management System</a></strong><br/>
-      - Laravel REST API for a freelance-like platform (workers, clients, admin).<br/>
+      - A comprehensive API-based worker management system, such as freelance platform, catering to workers, clients, and administrators.
+<br/>
       - <em><strong>Stack:</strong></em> <code>Laravel</code>, <code>PHP</code>, <code>MySQL</code>, <code>REST API</code>
     </p>
   </li>
