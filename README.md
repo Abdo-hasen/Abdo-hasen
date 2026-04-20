@@ -1,15 +1,10 @@
 <h1 align="center">👋 Hi, I'm Abdelrhman Hasan</h1>
 <h3 align="center">Backend Developer | PHP & Laravel Specialist | ITI Graduate</h3>
-
-<br/>
-
 <p align="center">
   Explore my <a href="https://drive.google.com/drive/folders/1rYABR9N0wO0WpYBKU8nuIhtCgW3b66VN?usp=drive_link">resume</a>
   ·
   See my <a href="https://abdo-hasen.github.io/myPortfolio/">portfolio</a>
 </p>
-
-<br/>
 
 <h3 align="left">🌐 Connect With Me</h3>
 
@@ -23,9 +18,7 @@
   </a>
 </p>
 
-<br/>
 <hr/>
-<br/>
 
 <h3 align="left">💼 Work Experience</h3>
 
@@ -54,9 +47,7 @@
   </li>
 </ul>
 
-<br/>
 <hr/>
-<br/>
 
 <h3 align="left">🛠️ Skills</h3>
 
@@ -108,9 +99,7 @@
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white)
 ![SMS Gateways](https://img.shields.io/badge/SMS%20Gateways-16A34A?style=flat)
 
-<br/>
 <hr/>
-<br/>
 
 <h3 align="left">📌 Featured Projects</h3>
 
@@ -123,7 +112,10 @@
       <a href="https://smartagente.com/" target="_blank" rel="noopener noreferrer">Live</a>
     </p>
     <ul>
-      <li><strong>Multi-tenant SaaS school management system serving multiple schools and educational stages</strong>, digitizing workflows such as teacher supervision, student behavior tracking, and academic results. Supports a large number of users across different roles (admins, teachers, students).</li>
+      <li>
+        <p><strong>Multi-tenant SaaS school management system serving multiple schools and educational stages</strong>, digitizing workflows such as teacher supervision, student behavior tracking, and academic results.</p>
+        <p>Supports a large number of users across different roles (admins, teachers, students).</p>
+      </li>
       <li><em><strong>Stack:</strong></em> <strong>Laravel 11</strong>, <strong>MySQL</strong>, <strong>Spatie</strong> (Media / Translatable / Permission), <strong>Queues</strong>, <strong>Firebase (FCM)</strong></li>
     </ul>
   </li>
@@ -135,7 +127,10 @@
       <a href="https://ekhsemli.co/" target="_blank" rel="noopener noreferrer">Live</a>
     </p>
     <ul>
-      <li>Coupon and cashback platform integrated with <strong>Admitad</strong> Affiliate Network, actively <strong>serving 10,000+ users</strong> with real-time tracking and transactions, serving users through a web frontend and mobile API.</li>
+      <li>
+        <p>Coupon and cashback platform integrated with <strong>Admitad</strong> Affiliate Network, actively <strong>serving 10,000+ users</strong> with real-time tracking and transactions.</p>
+        <p>Serves users through a web frontend and mobile API.</p>
+      </li>
       <li><em><strong>Stack:</strong></em> <strong>Laravel 9</strong>, <strong>Sanctum</strong>, <strong>Admitad API</strong>, <strong>Spatie Permissions</strong>, <strong>FCM</strong>, <strong>SMS OTP</strong>, <strong>Telescope</strong></li>
     </ul>
   </li>
@@ -147,7 +142,10 @@
       <a href="https://afaq-alzumorud.com/" target="_blank" rel="noopener noreferrer">Live</a>
     </p>
     <ul>
-      <li>An integrated service marketplace connecting company clients with in-house technicians. Developed a <strong>full service lifecycle</strong> featuring a <strong>real-time</strong> technician tracking timeline and <strong>SMS OTP</strong>-verified secure payments.</li>
+      <li>
+        <p>An integrated service marketplace connecting company clients with in-house technicians.</p>
+        <p>Developed a <strong>full service lifecycle</strong> featuring a <strong>real-time</strong> technician tracking timeline and <strong>SMS OTP</strong>-verified secure payments.</p>
+      </li>
       <li><em><strong>Stack:</strong></em> <strong>Laravel 11</strong>, <strong>Moyasar</strong>, <strong>FCM</strong>, <strong>SMS OTP</strong>, <strong>Spatie</strong>, <strong>Telescope</strong></li>
     </ul>
   </li>
