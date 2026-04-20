@@ -108,15 +108,16 @@
       <a href="https://github.com/Abdo-hasen/Afaq-Al-Zumorud-Contracting-Company" target="_blank" rel="noopener noreferrer">GitHub</a>
       ·
       <a href="https://afaq-alzumorud.com/" target="_blank" rel="noopener noreferrer">Live</a><br/>
-      - An on-site service marketplace that enables clients to request services and receive tailored quotations from technicians to ensure competitive pricing and quality.<br/>
-      - Engineered a full service-delivery lifecycle featuring a real-time progress timeline (Arrived → In Progress → Done) and a secure payment handover verified via SMS OTP.<br/>
+      - An integrated service marketplace connecting company clients with in-house technicians. Developed a full service lifecycle featuring a real-time technician tracking timeline and SMS OTP-verified secure payments.<br/>
       - <em><strong>Stack:</strong></em> <code>Laravel 11</code>, <code>Moyasar</code>, <code>FCM</code>, <code>SMS OTP</code>, <code>Spatie</code>, <code>Telescope</code>
     </p>
   </li>
   <li>
     <p>
       <strong>Omanyzer</strong> —
-      <a href="https://github.com/Abdo-hasen/Omanyzer" target="_blank" rel="noopener noreferrer">GitHub</a><br/>
+      <a href="https://github.com/Abdo-hasen/Omanyzer" target="_blank" rel="noopener noreferrer">GitHub</a>
+      .
+            <a href="https://play.google.com/store/apps/details?id=com.omnzer.app" target="_blank" rel="noopener noreferrer">Live</a><br/>
       - A specialized tourism marketplace connecting travelers with professional guides through a rigorous verification and approval workflow for event publishing and guide recruitment.<br/>
       - Implemented a flexible booking engine that supports custom travel plans, real-time ratings, and an automated wallet system to manage guide commissions and earnings settlements.<br/>
       - <em><strong>Stack:</strong></em> <code>Laravel 11</code>, <code>AmwalPay</code>, <code>WhatsApp OTP</code>, <code>FCM</code>, <code>Spatie</code>, <code>Telescope</code>
