@@ -1,9 +1,13 @@
 <h1 align="center">👋 Hi, I'm Abdelrhman Hasan</h1>
 <h3 align="center">Backend Developer | PHP & Laravel Specialist | ITI Graduate</h3>
 <p align="center">
-  Explore my <a href="https://drive.google.com/drive/folders/1rYABR9N0wO0WpYBKU8nuIhtCgW3b66VN?usp=drive_link">resume</a>
-  ·
-  See my <a href="https://abdo-hasen.github.io/myPortfolio/">portfolio</a>
+  <a href="https://drive.google.com/drive/folders/1rYABR9N0wO0WpYBKU8nuIhtCgW3b66VN?usp=drive_link" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" height="32" alt="Open Resume (Google Drive)"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://abdo-hasen.github.io/myPortfolio/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" height="32" alt="Open Portfolio website"/>
+  </a>
 </p>
 
 <h3 align="left">🌐 Connect With Me</h3>
@@ -51,53 +55,58 @@
 
 <h3 align="left">🛠️ Skills</h3>
 
-**🔧 Backend**
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white)
-![REST](https://img.shields.io/badge/RESTful%20APIs-FF6C37?logo=postman&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-512BD4?style=flat)
-![SOLID](https://img.shields.io/badge/SOLID%20principles-2C3E50?style=flat)
-![Design Patterns](https://img.shields.io/badge/Design%20Patterns-34495E?style=flat)
-
-<br/>
-
-**🎨 Frontend (Basic)**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
-
-<br/>
-
-**⚙️ Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![PHPUnit](https://img.shields.io/badge/Unit%20Testing%20(PHPUnit)-25A162?logo=php&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?logo=redhat&logoColor=white)
-
-<br/>
-
-**🔌 Third-Party Integrations**
-
-![Paymob](https://img.shields.io/badge/Paymob-5B21B6?style=flat)
-![Moyasar](https://img.shields.io/badge/Moyasar-0F766E?style=flat)
-![AmwalPay](https://img.shields.io/badge/AmwalPay-0EA5E9?style=flat)
-![Admitad](https://img.shields.io/badge/Admitad-F97316?style=flat)
-![Firebase](https://img.shields.io/badge/Firebase%20(FCM)-039BE5?logo=firebase&logoColor=white)
-![WhatsApp Business API](https://img.shields.io/badge/WhatsApp%20Business%20API-25D366?logo=whatsapp&logoColor=white)
-![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white)
-![SMS Gateways](https://img.shields.io/badge/SMS%20Gateways-16A34A?style=flat)
+<table>
+  <tr>
+    <td valign="top" width="18%"><strong>🔧 Backend</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" alt="PHP"/>
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white" alt="Laravel"/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL"/>
+      <img src="https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=white" alt="Apache"/>
+      <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white" alt="WordPress"/>
+      <img src="https://img.shields.io/badge/RESTful%20APIs-FF6C37?logo=postman&logoColor=white" alt="RESTful APIs"/>
+      <img src="https://img.shields.io/badge/OOP-512BD4?style=flat" alt="OOP"/>
+      <img src="https://img.shields.io/badge/SOLID%20principles-2C3E50?style=flat" alt="SOLID principles"/>
+      <img src="https://img.shields.io/badge/Design%20Patterns-34495E?style=flat" alt="Design Patterns"/>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>🎨 Frontend (Basic)</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5"/>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3"/>
+      <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript"/>
+      <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white" alt="jQuery"/>
+      <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" alt="Angular"/>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>⚙️ Tools</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git"/>
+      <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub"/>
+      <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker"/>
+      <img src="https://img.shields.io/badge/Unit%20Testing%20(PHPUnit)-25A162?logo=php&logoColor=white" alt="PHPUnit"/>
+      <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux"/>
+      <img src="https://img.shields.io/badge/Red%20Hat-EE0000?logo=redhat&logoColor=white" alt="Red Hat"/>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>🔌 Integrations</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Paymob-5B21B6?style=flat" alt="Paymob"/>
+      <img src="https://img.shields.io/badge/Moyasar-0F766E?style=flat" alt="Moyasar"/>
+      <img src="https://img.shields.io/badge/AmwalPay-0EA5E9?style=flat" alt="AmwalPay"/>
+      <img src="https://img.shields.io/badge/Admitad-F97316?style=flat" alt="Admitad"/>
+      <img src="https://img.shields.io/badge/Firebase%20(FCM)-039BE5?logo=firebase&logoColor=white" alt="Firebase FCM"/>
+      <img src="https://img.shields.io/badge/WhatsApp%20Business%20API-25D366?logo=whatsapp&logoColor=white" alt="WhatsApp Business API"/>
+      <img src="https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white" alt="Zoom"/>
+      <img src="https://img.shields.io/badge/SMS%20Gateways-16A34A?style=flat" alt="SMS Gateways"/>
+    </td>
+  </tr>
+</table>
 
 <hr/>
 
