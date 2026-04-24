@@ -30,10 +30,10 @@
   <li>
     <p><strong>Backend Developer</strong> (May 2025 – Present) — <strong>Alhussan Tech Company</strong></p>
     <ul>
-      <li>Delivered <strong>10+ production-ready backend solutions across diverse domains (SaaS, Healthcare, Tourism, Contracting, and Education)</strong>, ensuring robust architecture and high scalability.</li>
-      <li>Designed and optimized secure, well-documented RESTful APIs to power mobile applications, ensuring seamless data integration and efficient communication with front-end clients.</li>
+      <li>Successfully delivered <strong>8+ backend solutions</strong> across diverse domains (SaaS, Healthcare, Tourism, etc.), ranging from end-to-end solo development to scaling existing Phase 2 systems and contributing to high-impact team projects.</li>
+      <li>Designed and optimized secure, well-documented RESTful APIs to power <strong>mobile applications</strong>, ensuring seamless data integration and efficient communication with <strong>front-end clients</strong>.</li>
       <li>Integrated third-party services, including Payment Gateways (<strong>Paymob, Moyasar</strong>), Communication APIs (<strong>WhatsApp, Zoom, SMS</strong>), and <strong>Firebase</strong> for real-time notifications and <strong>Admitad</strong> for affiliate conversion tracking.</li>
-      <li>Architected and managed the <strong>full backend lifecycle independently, implementing SOLID principles and Design Patterns</strong> to ensure a scalable and maintainable codebase, from initial <strong>Database Design</strong> to final <strong>Server Deployment</strong>.</li>
+      <li>Architected and managed the <strong>full backend lifecycle independently</strong>, implementing <strong>SOLID principles and Design Patterns</strong> to ensure a scalable and maintainable codebase, from initial Database Design to final Server Deployment.</li>
     </ul>
   </li>
   <li>
@@ -91,6 +91,16 @@
       <img src="https://img.shields.io/badge/Unit%20Testing%20(PHPUnit)-25A162?logo=php&logoColor=white" alt="PHPUnit"/>
       <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux"/>
       <img src="https://img.shields.io/badge/Red%20Hat-EE0000?logo=redhat&logoColor=white" alt="Red Hat"/>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>🤖 AI-Assisted Development</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Prompt%20Engineering-6366F1?style=flat" alt="Prompt Engineering"/>
+      <img src="https://img.shields.io/badge/MCP%20Protocol-0EA5E9?style=flat" alt="MCP Protocol"/>
+      <img src="https://img.shields.io/badge/Spec--kit-8B5CF6?style=flat" alt="Spec-kit"/>
+      <img src="https://img.shields.io/badge/AI%20Skills%20%2F%20Rules-475569?style=flat" alt="AI Skills / Rules"/>
+      <img src="https://img.shields.io/badge/Agentic%20Workflows-059669?style=flat" alt="Agentic Workflows"/>
     </td>
   </tr>
   <tr>
@@ -168,7 +178,7 @@
     <ul>
       <li>A specialized <strong>tourism marketplace</strong> connecting travelers with professional guides through a rigorous verification and approval workflow for event publishing and guide recruitment.</li>
       <li>Implemented a flexible <strong>booking engine</strong> that supports custom travel plans, <strong>real-time</strong> ratings, and an automated <strong>wallet</strong> system to manage guide commissions and earnings settlements.</li>
-      <li><em><strong>Stack:</strong></em> <strong>Laravel 11</strong>, <strong>AmwalPay</strong>, <strong>WhatsApp OTP</strong>, <strong>FCM</strong>, <strong>Spatie</strong>, <strong>Telescope</strong></li>
+      <li><em><strong>Stack:</strong></em> <strong>Laravel 11</strong>, <strong>AmwalPay</strong>, <strong>FCM</strong>, <strong>Spatie</strong>, <strong>Telescope</strong></li>
     </ul>
   </li>
   <li>
