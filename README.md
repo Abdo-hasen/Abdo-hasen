@@ -140,17 +140,15 @@
   </li>
   <li>
     <p>
-      <strong>Ekhsemli</strong> —
-      <a href="https://github.com/Abdo-hasen/Ekhsemli" target="_blank" rel="noopener noreferrer">GitHub</a>
-      ·
-      <a href="https://ekhsemli.co/" target="_blank" rel="noopener noreferrer">Live</a>
+      <strong>KSHB</strong> —
+      <a href="https://github.com/Abdo-hasen/KSHB" target="_blank" rel="noopener noreferrer">GitHub</a>
     </p>
     <ul>
       <li>
-        <p>Coupon and cashback platform integrated with <strong>Admitad</strong> Affiliate Network, actively <strong>serving 10,000+ users</strong> with real-time tracking and transactions.</p>
-        <p>Serves users through a web frontend and mobile API.</p>
+        <p>E-commerce backend for <strong>Sudan</strong> — product variants, wallet checkout, coupons, flash sales, and admin ops.</p>
+        <p>API designed for <strong>low bandwidth</strong> (lean responses, caching, lazy-loaded home sections).</p>
       </li>
-      <li><em><strong>Stack:</strong></em> <strong>Laravel 9</strong>, <strong>Sanctum</strong>, <strong>Admitad API</strong>, <strong>Spatie Permissions</strong>, <strong>FCM</strong>, <strong>SMS OTP</strong>, <strong>Telescope</strong></li>
+      <li><em><strong>Stack:</strong></em> <strong>Laravel 11</strong>, <strong>Sanctum</strong>, <strong>Spatie</strong>, <strong>FCM</strong>, <strong>SMS OTP</strong>, <strong>Telescope</strong>, <strong>Google Sign-In</strong></li>
     </ul>
   </li>
   <li>
@@ -166,6 +164,21 @@
         <p>Developed a <strong>full service lifecycle</strong> featuring a <strong>real-time</strong> technician tracking timeline and <strong>SMS OTP</strong>-verified secure payments.</p>
       </li>
       <li><em><strong>Stack:</strong></em> <strong>Laravel 11</strong>, <strong>Moyasar</strong>, <strong>FCM</strong>, <strong>SMS OTP</strong>, <strong>Spatie</strong>, <strong>Telescope</strong></li>
+    </ul>
+  </li>
+  <li>
+    <p>
+      <strong>Ekhsemli</strong> —
+      <a href="https://github.com/Abdo-hasen/Ekhsemli" target="_blank" rel="noopener noreferrer">GitHub</a>
+      ·
+      <a href="https://ekhsemli.co/" target="_blank" rel="noopener noreferrer">Live</a>
+    </p>
+    <ul>
+      <li>
+        <p>Coupon and cashback platform integrated with <strong>Admitad</strong> Affiliate Network, actively <strong>serving 10,000+ users</strong> with real-time tracking and transactions.</p>
+        <p>Serves users through a web frontend and mobile API.</p>
+      </li>
+      <li><em><strong>Stack:</strong></em> <strong>Laravel 9</strong>, <strong>Sanctum</strong>, <strong>Admitad API</strong>, <strong>Spatie Permissions</strong>, <strong>FCM</strong>, <strong>SMS OTP</strong>, <strong>Telescope</strong></li>
     </ul>
   </li>
   <li>
