@@ -1,6 +1,9 @@
 <h1 align="center">👋 Hi, I'm Abdelrhman Hasan</h1>
-<h3 align="center">Backend Developer | PHP & Laravel Specialist | ITI Graduate</h3>
+<h3 align="center">Laravel Backend Developer | 2+ Years Experience | ITI Graduate</h3>
 <p align="center">
+  Laravel backend developer with <strong>2+ years</strong> of experience in PHP, Laravel, and MySQL.
+  I ship and maintain multi-tenant backends on live production systems.
+</p>
   <a href="https://drive.google.com/drive/folders/1rYABR9N0wO0WpYBKU8nuIhtCgW3b66VN?usp=drive_link" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" height="32" alt="Open Resume (Google Drive)"/>
   </a>
@@ -37,7 +40,7 @@
     </ul>
   </li>
   <li>
-    <p><strong>Freelance Backend Developer</strong> (Oct 2024 – Present)</p>
+    <p><strong>Freelance Backend Developer</strong> (Jun 2024 – Present)</p>
     <ul>
       <li>End-to-end development of custom backend solutions for individual clients and companies, delivering scalable applications from initial architecture to final deployment.</li>
       <li>Contributed to existing <strong>legacy PHP</strong> codebases for clients—shipping new features and targeted enhancements on top of established applications.</li>
