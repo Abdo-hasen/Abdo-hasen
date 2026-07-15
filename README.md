@@ -1,9 +1,9 @@
 <h1 align="center">👋 Hi, I'm Abdelrhman Hasan</h1>
 <h3 align="center">Backend Engineer (Laravel/PHP) | Building Scalable SaaS Backends & Robust APIs | AI-Assisted Workflows | 2+ Years Experience | Open To Work</h3>
 <p align="center">
-  Experienced <strong>Backend Engineer</strong> with over <strong>2 years</strong> specializing in <strong>PHP</strong> and <strong>Laravel</strong>. I build scalable, secure web apps and multi-tenant SaaS across diverse domains (SaaS, Healthcare, Tourism, and more).<br>
+  Experienced Backend Engineer with over 2 years specializing in PHP and Laravel. I build scalable, secure web apps and <strong> multi-tenant SaaS across diverse domains </strong> (SaaS, Healthcare, Tourism, and more).<br>
   <br>
-  I work comfortably in legacy PHP codebases as well as greenfield systems, applying <strong>SOLID</strong> principles and Design Patterns to keep backends maintainable from database design through deployment. Expertise includes RESTful APIs, MySQL optimization, third-party integrations (payments &amp; communication gateways), and full backend lifecycle ownership.<br>
+  I work comfortably in <strong>legacy PHP</strong> codebases as well as greenfield systems, applying <strong>SOLID</strong> principles and <strong>Design Patterns</strong> to keep backends maintainable from database design through deployment. Expertise includes RESTful APIs, MySQL optimization, third-party integrations (payments &amp; communication gateways), and full backend lifecycle ownership.<br>
   <br>
   With a focus on continuous delivery and leveraging modern <strong>AI-assisted</strong> development workflows to maximize code quality and efficiency, I thrive on solving complex business logic and designing robust systems.<br>
   <br>
@@ -102,7 +102,6 @@
       <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker"/>
       <img src="https://img.shields.io/badge/Unit%20Testing%20(PHPUnit)-25A162?logo=php&logoColor=white" alt="PHPUnit"/>
       <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux"/>
-      <img src="https://img.shields.io/badge/Red%20Hat-EE0000?logo=redhat&logoColor=white" alt="Red Hat"/>
     </td>
   </tr>
   <tr>
