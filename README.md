@@ -1,8 +1,15 @@
 <h1 align="center">👋 Hi, I'm Abdelrhman Hasan</h1>
-<h3 align="center">Laravel Backend Developer | 2+ Years Experience | ITI Graduate</h3>
+<h3 align="center">Backend Engineer (Laravel/PHP) | Building Scalable SaaS Backends & Robust APIs | AI-Assisted Workflows | 2+ Years Experience | Open To Work</h3>
 <p align="center">
-  Laravel backend developer with <strong>2+ years</strong> of experience in PHP, Laravel, and MySQL.
-  I ship and maintain multi-tenant backends on live production systems.
+  <strong>Backend Engineer (Laravel/PHP)</strong> with <strong>2+ years</strong> of hands-on experience building scalable, secure, and high-performance web applications & multi-tenant SaaS platforms.<br>
+  <br>
+  Core work: RESTful API development · MySQL database optimization · complex third-party integrations (e.g., payment & communication gateways) · full backend lifecycle management.<br>
+  <br>
+  I focus on clean, maintainable code, continuous delivery, and leverage the latest <strong>AI-assisted workflows</strong> to maximize development quality and efficiency.<br>
+  <br>
+  I design and implement complex business rules into maintainable backends and ship systems that stay reliable under real production load.<br>
+  <br>
+  <em>Let's connect and build something impactful together!</em>
 </p>
   <a href="https://drive.google.com/drive/folders/1rYABR9N0wO0WpYBKU8nuIhtCgW3b66VN?usp=drive_link" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" height="32" alt="Open Resume (Google Drive)"/>
