@@ -16,6 +16,10 @@
 <h3 align="left">🌐 Connect With Me</h3>
 
 <p align="left">
+  <a href="https://www.linkedin.com/in/abdulrahmaan-ali" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" height="30" alt="LinkedIn"/>
+  </a>
+  &nbsp;
   <a href="https://wa.me/201011608515" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white" height="30" alt="WhatsApp"/>
   </a>
@@ -99,9 +103,9 @@
   <tr>
     <td valign="top"><strong>🤖 AI-Assisted Development</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/Prompt%20Engineering-6366F1?style=flat" alt="Prompt Engineering"/>
+      <img src="https://img.shields.io/badge/Harness%20Engineering-6366F1?style=flat" alt="Harness Engineering"/>
       <img src="https://img.shields.io/badge/MCP%20Protocol-0EA5E9?style=flat" alt="MCP Protocol"/>
-      <img src="https://img.shields.io/badge/Spec--kit-8B5CF6?style=flat" alt="Spec-kit"/>
+      <img src="https://img.shields.io/badge/Spec--Driven%20Development-8B5CF6?style=flat" alt="Spec-Driven Development"/>
       <img src="https://img.shields.io/badge/AI%20Skills%20%2F%20Rules-475569?style=flat" alt="AI Skills / Rules"/>
       <img src="https://img.shields.io/badge/Agentic%20Workflows-059669?style=flat" alt="Agentic Workflows"/>
     </td>
