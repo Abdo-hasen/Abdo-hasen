@@ -42,7 +42,7 @@
   <li>
     <p><strong>Backend Developer</strong> (May 2025 – June 2026) — <strong>Alhussan Tech Company</strong></p>
     <ul>
-      <li>Successfully delivered <strong>8+ backend solutions</strong> across diverse domains (SaaS, Healthcare, Tourism, etc.), ranging from end-to-end solo development to scaling existing Phase 2 systems and contributing to high-impact team projects.</li>
+      <li>Successfully delivered <strong>backend solutions</strong> across diverse domains (SaaS, Healthcare, Tourism, etc.), ranging from end-to-end solo development to scaling existing Phase 2 systems and contributing to high-impact team projects.</li>
       <li>Designed and optimized secure, well-documented RESTful APIs to power <strong>mobile applications</strong>, ensuring seamless data integration and efficient communication with <strong>front-end clients</strong>.</li>
       <li>Integrated third-party services, including Payment Gateways (<strong>Paymob, Moyasar</strong>), Communication APIs (<strong>WhatsApp, Zoom, SMS</strong>), and <strong>Firebase</strong> for real-time notifications and <strong>Admitad</strong> for affiliate conversion tracking.</li>
       <li>Architected and managed the <strong>full backend lifecycle independently</strong>, implementing <strong>SOLID principles and Design Patterns</strong> to ensure a scalable and maintainable codebase, from initial Database Design to final Server Deployment.</li>
